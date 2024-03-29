@@ -1,6 +1,6 @@
 # Quantum Painter display only
 
-![Amazing!](images/GC9A01.png "Amazing!")
+![Amazing!](https://github.com/OakNinja/qmk_images/blob/d13c7c78d5479e2e617a9b2bae32d93f9a538aeb/GC9A01.png "Amazing!")
 
 When I first started looking into Quantum Painter, I tried to find a simple example on how to get it up and running.
 
@@ -34,7 +34,7 @@ Elite Pi compatible controllers (I use the Liatris from SplitKB, but any Elite P
 should work) have two SPI channels, SPID0 and SPID1. These two different channels have a bunch of different possible
 configurations, but only SPID1 can be used on the extra pins.
 
-![Elite Pi Pinout, from keeb.io](images/elite_pi_pinout.png "Elite Pi pinout, courtesy of keeb.io")
+![Elite Pi Pinout, from keeb.io](https://github.com/OakNinja/qmk_images/blob/d13c7c78d5479e2e617a9b2bae32d93f9a538aeb/elite_pi_pinout.png "Elite Pi pinout, courtesy of keeb.io")
 
 If you look at the image above, you can follow the teal labels for SPI. Please note that what is called DX, eg. D1-D29
 on the image above, is called GP1-GP29 in QMK. Also, do not mistake the orange I2C labels with the SPI ones - they are
@@ -42,7 +42,7 @@ not the same protocol.
 
 ### To connect an LCD display to the RP2040 over SPI, you need to connect seven pins:
 
-![2" st7789 display, 320x240](images/st7789.png "2\" st7789 display, 320x240" )
+![2" st7789 display, 320x240](https://github.com/OakNinja/qmk_images/blob/d13c7c78d5479e2e617a9b2bae32d93f9a538aeb/st7789.png "2\" st7789 display, 320x240" )
 
 * GND -> Ground
 * VCC -> VCC
