@@ -2,6 +2,7 @@
 
 ![Amazing!](https://github.com/OakNinja/qmk_images/blob/d13c7c78d5479e2e617a9b2bae32d93f9a538aeb/GC9A01.png "Amazing!")
 
+This text is also available on [Medium](https://medium.com/@OakNinja/how-to-add-quantum-painter-color-lcd-to-almost-any-qmk-keyboard-8220c7a8b913)
 When I first started looking into Quantum Painter, I tried to find a simple example on how to get it up and running.
 
 I'm not a complete hardware n00b, but while the documentation for Quantum Painter is well written and extensive, I still
